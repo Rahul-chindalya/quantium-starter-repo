@@ -15,3 +15,6 @@ This repo contains everything you need to get started on the program! Good luck!
 
 ## Output
 Dashboard runs on http://127.0.0.1:8050/
+
+
+I used the pandas library for data processing as it provides efficient and easy-to-use functions for handling, filtering, and transforming large datasets compared to traditional methods.
